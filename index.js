@@ -4,4 +4,5 @@ const number = 99;
 const x = 0;
 function Say() {
   console.log("Say");
+  console.log("Say1");
 }
